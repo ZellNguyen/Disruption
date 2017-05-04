@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB1AA2B8-D976-B656-AA84-61011089D7FA}") = "Drone2 3.0", "Assembly-CSharp.csproj", "{BE873FED-EFA1-7F16-9F1B-A6274CF0196D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE873FED-EFA1-7F16-9F1B-A6274CF0196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE873FED-EFA1-7F16-9F1B-A6274CF0196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE873FED-EFA1-7F16-9F1B-A6274CF0196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE873FED-EFA1-7F16-9F1B-A6274CF0196D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
